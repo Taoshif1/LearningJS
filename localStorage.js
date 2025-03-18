@@ -7,7 +7,7 @@
 // localStorage store data as key value pair - string
 
 // setItem(key, value)
-// localStorage.setItem("userName", "anisul islam");
+// localStorage.setItem("userName", "gazi taoshif");
 // localStorage.setItem("password", "0123456789");
 
 // getItem(key)
